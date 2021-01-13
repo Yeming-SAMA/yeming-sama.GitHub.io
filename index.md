@@ -1,3 +1,11 @@
+---
+layout: default
+title:loading
+---
+
+
+
+
 <html>
 <head>
 <meta http-equiv="Content-Language" content="zh-CN">
